@@ -4,25 +4,25 @@ first codes
 
 # something
 
-#fitst
+# fitst
 
-##secend
+## secend
 
-###third
+### third
 
-####fourth
+#### fourth
 
-#####fifth
+##### fifth
 
-######sixth
+###### sixth
 
-##understore
+## understore
 
 ___
 ---
 ***
 
-##text
+## text
 
 **the text**
 
